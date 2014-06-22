@@ -1,8 +1,6 @@
 IOPP
 ====
 
-Main Manifest
-
 Getting the stuff (mostly kanged from PAC)
 ---------------
 
@@ -23,3 +21,5 @@ You'll need to get familiar with [Git and Repo](http://source.android.com/downlo
 
 
 Then your setup build environment - http://forum.xda-developers.com/showthread.php?t=2224142
+
+
