@@ -22,4 +22,10 @@ You'll need to get familiar with [Git and Repo](http://source.android.com/downlo
 
 Then your setup build environment - http://forum.xda-developers.com/showthread.php?t=2224142
 
+====
+
+IOPP, a playground for us to play with IOAP without messing up the work of mrimp and Jamison904.
+
+Bascially just a giant kang not really meant to do anything.
+
 
