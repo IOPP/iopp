@@ -497,7 +497,6 @@
   <project path="packages/inputmethods/LatinIME" name="IOPP/android_packages_inputmethods_LatinIME" remote="github" revision="kitkat" />
   <project path="packages/services/Telephony" name="IOPP/android_packages_services_Telephony" remote="github" revision="kitkat" />
   <project path="system/core" name="IOPP/android_system_core" remote="github" revision="kitkat" groups="pdk" />
-  <project path="system/vold" name="IOPP/android_system_vold" remote="github" revision="kitkat" />
 
   <project path="vendor/cm" name="IOPP/android_vendor_cm" remote="github" revision="kitkat" />
   <project path="vendor/IOPP" name="IOPP/android_vendor_IOPP" remote="github" revision="kitkat" >
