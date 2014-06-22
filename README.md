@@ -1,4 +1,4 @@
-iopp
+IOPP
 ====
 
-Main Manifest
+Please see kitkat branch to begin working with IOPP!
